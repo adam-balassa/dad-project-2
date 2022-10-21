@@ -1,0 +1,288 @@
+{ 
+    "catalog": { 
+        "categories": [
+            {
+                "id": "mac",
+                "name": "Mac",
+                "imageUrl": "https://cdn-icons-png.flaticon.com/512/22/22791.png",
+                "products": [
+                    {
+                        "id": "air-m1",
+                        "name": "MacBook Air M1",
+                        "price": "$999",
+                        "imageUrl": "https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_mba__fchj615oz0yi_large.png",
+                        "properties": [
+                            {
+                                "type": "chip",
+                                "value": "Apple M1 chip"
+                            },
+                            {
+                                "type": "display_size",
+                                "value": "13.3\""
+                            },
+                            {
+                                "type": "display_type",
+                                "value": "Retina display"
+                            },
+                            {
+                                "type": "cpu_cores",
+                                "value": "8-core"
+                            },
+                            {
+                                "type": "gpu_cores",
+                                "value": "7-core"
+                            },
+                            {
+                                "type": "memory",
+                                "value": "16GB"
+                            },
+                            {
+                                "type": "storage",
+                                "value": "2TB"
+                            }
+                        ]
+                    }, 
+                    {
+                        "id": "air-m2",
+                        "name": "MacBook Air M2",
+                        "price": "$1199",
+                        "imageUrl": "https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_mbam2__bdesjk99hf4i_large.png",
+                        "properties": [
+                            {
+                                "type": "chip",
+                                "value": "Apple M2 chip"
+                            },
+                            {
+                                "type": "display_size",
+                                "value": "13.6\""
+                            },
+                            {
+                                "type": "display_type",
+                                "value": "Liquid Retina display"
+                            },
+                            {
+                                "type": "cpu_cores",
+                                "value": "8-core"
+                            },
+                            {
+                                "type": "gpu_cores",
+                                "value": "10-core"
+                            },
+                            {
+                                "type": "memory",
+                                "value": "24GB"
+                            },
+                            {
+                                "type": "storage",
+                                "value": "2TB"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "pro-13",
+                        "name": "MacBook Pro 13\"",
+                        "price": "$1299",
+                        "imageUrl": "https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_mbp13__euj5z15300om_large.png",
+                        "properties": [
+                            {
+                                "type": "display_size",
+                                "value": "13.3\""
+                            },
+                            {
+                                "type": "display_type",
+                                "value": "Retina display"
+                            },
+                            {
+                                "type": "cpu_cores",
+                                "value": "8-core"
+                            },
+                            {
+                                "type": "gpu_cores",
+                                "value": "10-core"
+                            },
+                            {
+                                "type": "memory",
+                                "value": "24GB"
+                            },
+                            {
+                                "type": "storage",
+                                "value": "2TB"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "pro-16",
+                        "name": "MacBook Pro 14\" and 16\"",
+                        "price": "$1999",
+                        "imageUrl": "https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_mbp14_and_16__f2dhysusb5im_large.png",
+                        "properties": [
+                            {
+                                "type": "chip",
+                                "value": "Apple M1 Pro chip or Apple M1 Max chip"
+                            },
+                            {
+                                "type": "display_size",
+                                "value": "14\" or 16\""
+                            },
+                            {
+                                "type": "display_type",
+                                "value": "Liquid Retina XDR display"
+                            },
+                            {
+                                "type": "cpu_cores",
+                                "value": "10-core"
+                            },
+                            {
+                                "type": "gpu_cores",
+                                "value": "32-core"
+                            },
+                            {
+                                "type": "memory",
+                                "value": "64GB"
+                            },
+                            {
+                                "type": "storage",
+                                "value": "8TB"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "iphone",
+                "name": "iPhone",
+                "imageUrl": "https://cdn-icons-png.flaticon.com/512/0/191.png",
+                "products": [
+                    {
+                        "id": "14-pro",
+                        "name": "iPhone 14 Pro",
+                        "price": "$999",
+                        "imageUrl": "https://www.apple.com/v/iphone/home/bk/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg",
+                        "properties": [
+                            {
+                                "type": "chip",
+                                "value": "A16 Bionic chip"
+                            },
+                            {
+                                "type": "display_size",
+                                "value": "6.7\""
+                            },
+                            {
+                                "type": "display_type",
+                                "value": "Super Retina XDR display"
+                            },
+                            {
+                                "type": "camera_system",
+                                "value": "Pro camera system"
+                            },
+                            {
+                                "type": "camera_resolution",
+                                "value": "48MP"
+                            },
+                            {
+                                "type": "cellular",
+                                "value": "Superfast 5G cellular"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "14",
+                        "name": "iPhone 14",
+                        "price": "$799",
+                        "imageUrl": "https://www.apple.com/v/iphone/home/bk/images/overview/compare/compare_iphone_14__ct4sjk962pea_large.jpg",
+                        "properties": [
+                            {
+                                "type": "chip",
+                                "value": "A15 Bionic chip with 5-core GPU"
+                            },
+                            {
+                                "type": "display_size",
+                                "value": "6.1\""
+                            },
+                            {
+                                "type": "display_type",
+                                "value": "Super Retina XDR display"
+                            },
+                            {
+                                "type": "camera_system",
+                                "value": "Advanced dual-camera system"
+                            },
+                            {
+                                "type": "camera_resolution",
+                                "value": "12MP"
+                            },
+                            {
+                                "type": "cellular",
+                                "value": "Superfast 5G cellular"
+                            }
+                        ]
+                    }, 
+                    {
+                        "id": "13",
+                        "name": "iPhone 13",
+                        "price": "$599",
+                        "imageUrl": "https://www.apple.com/v/iphone/home/bk/images/overview/compare/compare_iphone_13__fqzwhmfmroey_large.jpg",
+                        "properties": [
+                            {
+                                "type": "chip",
+                                "value": "A15 Bionic chip with 4-core GPU"
+                            },
+                            {
+                                "type": "display_size",
+                                "value": "5.4\""
+                            },
+                            {
+                                "type": "display_type",
+                                "value": "Super Retina XDR display"
+                            },
+                            {
+                                "type": "camera_system",
+                                "value": "Dual-camera system"
+                            },
+                            {
+                                "type": "camera_resolution",
+                                "value": "12MP"
+                            },
+                            {
+                                "type": "cellular",
+                                "value": "Superfast 5G cellular"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "se",
+                        "name": "iPhone SE",
+                        "price": "$429",
+                        "imageUrl": "https://www.apple.com/v/iphone/home/bk/images/overview/compare/compare_iphone_13__fqzwhmfmroey_large.jpg",
+                        "properties": [
+                            {
+                                "type": "chip",
+                                "value": "A15 Bionic chip with 4-core GPU"
+                            },
+                            {
+                                "type": "display_size",
+                                "value": "4.7\""
+                            },
+                            {
+                                "type": "display_type",
+                                "value": "Retina HD display"
+                            },
+                            {
+                                "type": "camera_system",
+                                "value": "Advanced camera system"
+                            },
+                            {
+                                "type": "camera_resolution",
+                                "value": "12MP"
+                            },
+                            {
+                                "type": "cellular",
+                                "value": "5G cellular"
+                            }
+                        ]
+                    }
+                ]
+            }   
+        ]
+    } 
+}
