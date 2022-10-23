@@ -35063,7 +35063,7 @@ o=t.j
 n=J
 m=J
 s=3
-return A.al(A.adJ("catalog.json"),$async$hz)
+return A.al(A.adJ("data.json"),$async$hz)
 case 3:q=p.i7(o.a(n.aW(m.aW(b,"catalog"),"categories")),new A.RH(),t.oo).dL(0)
 s=1
 break
